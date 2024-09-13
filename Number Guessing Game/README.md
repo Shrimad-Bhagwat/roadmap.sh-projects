@@ -1,6 +1,7 @@
 # Number Guessing Game
 
 [roadmap.sh challenge link](https://roadmap.sh/projects/number-guessing-game)
+https://roadmap.sh/projects/number-guessing-game
 
 A simple command-line game where you guess a randomly selected number between 1 and 100. Choose a difficulty level, make your guesses, and see if you can find the correct number before you run out of chances!
 
