@@ -2,6 +2,7 @@
 
 Sample solution for the [github-user-activity](https://roadmap.sh/projects/github-user-activity) challenge from [roadmap.sh](https://roadmap.sh/).
 
+https://roadmap.sh/projects/github-user-activity
 
 A simple Node.js command-line tool to fetch and display recent activity from a GitHub user using the GitHub API.
 
